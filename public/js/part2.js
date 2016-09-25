@@ -517,7 +517,7 @@ function set_my_color_options(username){
 	}
 	
 	//console.log('has_colors', has_colors);
-	var colors = ['white', 'black', 'red', 'green', 'blue', 'purple', 'pink', 'orange', 'yellow'];
+	var colors = ['white', 'black', 'red', 'green', 'blue', 'purple', 'pink', 'orange', 'yellow', 'brown'];
 	$('.willingWrap').each(function(){
 		for(var i in colors){
 			//console.log('checking if user has', colors[i]);
