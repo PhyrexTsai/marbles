@@ -450,6 +450,10 @@ label {
 .yellow {
   color: #DAC94E; }
 
+.brown {
+  color: #A52A2A;
+}
+
 .whitebg {
   background: #FFFEF3; }
 
@@ -476,6 +480,9 @@ label {
 
 .yellowbg {
   background: #DAC94E; }
+
+.brownbg {
+  background: #A52A2A; }
 
 .colorSelectWrap {
   text-align: left;
